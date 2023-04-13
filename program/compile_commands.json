@@ -1,0 +1,112 @@
+[
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/algorithm/encoder.c.obj -c /home/orangepi/Code/miniFOC/program/algorithm/encoder.c",
+  "file": "/home/orangepi/Code/miniFOC/program/algorithm/encoder.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/algorithm/fast_math.c.obj -c /home/orangepi/Code/miniFOC/program/algorithm/fast_math.c",
+  "file": "/home/orangepi/Code/miniFOC/program/algorithm/fast_math.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/algorithm/filter.c.obj -c /home/orangepi/Code/miniFOC/program/algorithm/filter.c",
+  "file": "/home/orangepi/Code/miniFOC/program/algorithm/filter.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/algorithm/foc.c.obj -c /home/orangepi/Code/miniFOC/program/algorithm/foc.c",
+  "file": "/home/orangepi/Code/miniFOC/program/algorithm/foc.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/algorithm/pid.c.obj -c /home/orangepi/Code/miniFOC/program/algorithm/pid.c",
+  "file": "/home/orangepi/Code/miniFOC/program/algorithm/pid.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/algorithm/report.c.obj -c /home/orangepi/Code/miniFOC/program/algorithm/report.c",
+  "file": "/home/orangepi/Code/miniFOC/program/algorithm/report.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/hardware/flash.c.obj -c /home/orangepi/Code/miniFOC/program/hardware/flash.c",
+  "file": "/home/orangepi/Code/miniFOC/program/hardware/flash.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/hardware/spi.c.obj -c /home/orangepi/Code/miniFOC/program/hardware/spi.c",
+  "file": "/home/orangepi/Code/miniFOC/program/hardware/spi.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/hardware/timer.c.obj -c /home/orangepi/Code/miniFOC/program/hardware/timer.c",
+  "file": "/home/orangepi/Code/miniFOC/program/hardware/timer.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/hardware/uart.c.obj -c /home/orangepi/Code/miniFOC/program/hardware/uart.c",
+  "file": "/home/orangepi/Code/miniFOC/program/hardware/uart.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/library/src/gd32f1x0_dma.c.obj -c /home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_dma.c",
+  "file": "/home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_dma.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/library/src/gd32f1x0_fmc.c.obj -c /home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_fmc.c",
+  "file": "/home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_fmc.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/library/src/gd32f1x0_gpio.c.obj -c /home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_gpio.c",
+  "file": "/home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_gpio.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/library/src/gd32f1x0_misc.c.obj -c /home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_misc.c",
+  "file": "/home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_misc.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/library/src/gd32f1x0_rcu.c.obj -c /home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_rcu.c",
+  "file": "/home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_rcu.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/library/src/gd32f1x0_spi.c.obj -c /home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_spi.c",
+  "file": "/home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_spi.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/library/src/gd32f1x0_timer.c.obj -c /home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_timer.c",
+  "file": "/home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_timer.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/library/src/gd32f1x0_usart.c.obj -c /home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_usart.c",
+  "file": "/home/orangepi/Code/miniFOC/program/library/src/gd32f1x0_usart.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/main.c.obj -c /home/orangepi/Code/miniFOC/program/main.c",
+  "file": "/home/orangepi/Code/miniFOC/program/main.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/system/gd32f1x0_it.c.obj -c /home/orangepi/Code/miniFOC/program/system/gd32f1x0_it.c",
+  "file": "/home/orangepi/Code/miniFOC/program/system/gd32f1x0_it.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/system/system.c.obj -c /home/orangepi/Code/miniFOC/program/system/system.c",
+  "file": "/home/orangepi/Code/miniFOC/program/system/system.c"
+},
+{
+  "directory": "/home/orangepi/Code/miniFOC/program/cmake-build-debug",
+  "command": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -DGD32F130_150 -DUSE_STDPERIPH_DRIVER -I/home/orangepi/Code/miniFOC/program/system -I/home/orangepi/Code/miniFOC/program/library/inc -I/home/orangepi/Code/miniFOC/program/hardware -I/home/orangepi/Code/miniFOC/program/. -I/home/orangepi/Code/miniFOC/program/algorithm -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nosys.specs -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -O2 -std=gnu11 -o CMakeFiles/miniFOC.elf.dir/system/system_gd32f1x0.c.obj -c /home/orangepi/Code/miniFOC/program/system/system_gd32f1x0.c",
+  "file": "/home/orangepi/Code/miniFOC/program/system/system_gd32f1x0.c"
+}
+]
